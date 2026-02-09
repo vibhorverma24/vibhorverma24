@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vibhor Verma</h1>
-<h3 align="center">Decision Scientist and passionate MERN Stack Developer from India</h3>
+<h3 align="center">QE and passionate MERN Stack Developer from India</h3>
 
 - 📫 How to reach me **vibhorverma8790@gmail.com**
 
